@@ -11,7 +11,6 @@ Download the Windows x64 ZIP from [Releases](https://github.com/haszKEJL/gunfire
 | Default key | Action |
 | --- | --- |
 | Insert | Open or close the menu |
-| Left Shift | Hold to aim |
 | F9 | Disable all features |
 | End | Exit and restore hooks and materials |
 

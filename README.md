@@ -14,8 +14,6 @@ Download the Windows x64 ZIP from [Releases](https://github.com/haszKEJL/gunfire
 | F9 | Disable all features |
 | End | Exit and restore hooks and materials |
 
-The aim key and activation mode can be changed in the menu. Keep `ScarletAim.exe`, `ScarletAim.dll`, `glow.bundle`, and `licenses/` together in `bin/`. Restart the game before replacing the DLL.
-
 ## Compatibility
 
 Windows x64, DirectX 11, and the Steam version of Gunfire Reborn. The runtime resolves game methods by name and signature instead of fixed offsets; a game update that changes those methods may still require an update to ScarletAim. Manual mapping is the only loading method.
